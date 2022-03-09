@@ -26,7 +26,7 @@
     <p>this new fancy packaging format. Because once these become standard (I definitely predict they will), you will be forced to use them (unless the software is free and open source). </p>
     <p>TLDR; By using bloated universal packages and making it easy for the normies, you're making it harder for minimal Linux users/experienced users who REALLY hate universal packaging. </p> 
     <p>So please, if you're going to distribute software, PLEASE PLEASE PLEASE provide packaging for the distro's native package manager (Apt for Debian/Ubuntu, Pacman for Arch, Rpm for Red Hat, Portage for Gentoo, XBPS for Void, etc.). </p> 
-    <p>Thank you and have a good day<p>
+    <p>Thank you and have a good day</p>
    </description>
   </item>
   <item>
