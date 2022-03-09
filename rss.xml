@@ -38,16 +38,14 @@
  <p>So please, if you're going to distribute software, PLEASE PLEASE PLEASE provide packaging for the distro's native package manager (Apt for Debian/Ubuntu, Pacman for Arch, Rpm for Red Hat, Portage for Gentoo, XBPS for Void, etc.). </p> 
  <p>Thank you and have a good day<p></description>
 </item>
-
-<item>
-<title>NOTE for spDE users</title>
-<pubDate>2022-03-09</pubDate>
-<description>
+ <item>
+ <title>NOTE for spDE users</title>
+ <pubDate>2022-03-10</pubDate>
+ <description>
  <p>This is a notice for spDE users. It now comes with newsboat and this RSS feed built in. There may or may not be a keybind but you can access it from the terminal by running 'newsboat'.</p> 
  <p></p>
  <p>Thank you for using spDE.</p>
-</description>
+ </description>
 </item>
- 
 </channel>
 </rss>
