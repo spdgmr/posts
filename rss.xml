@@ -13,8 +13,7 @@
 <title>Stop making Linux user friendly.. sort of</title>
 <pubDate>2022-03-09</pubDate>
 <link>https://spdgmr.github.io/post01</link>
-<description>
- <p>Wanted to state my opinion on a problem that's getting bigger and bigger. A problem that's getting bigger with each day is that we're making technology easier but it's also getting more and more "evil" with big tech companies (FAANG for example) collecting and selling our data for monetary gain. </p> <p>
+<description><p>Wanted to state my opinion on a problem that's getting bigger and bigger. A problem that's getting bigger with each day is that we're making technology easier but it's also getting more and more "evil" with big tech companies (FAANG for example) collecting and selling our data for monetary gain. </p> <p>
   So then we turn to alternatives (Usually free software and Linux) which is a good thing, more people caring about their online privacy. </p> 
  <p></p>
  <p>The problem is how we approach these new users. We want it to be easy for them but in the process of making it easy for new users we're also making it a nightmare for experienced users and slowly making Linux just as bloated as those proprietary operating systems. </p> 
@@ -36,8 +35,7 @@
   TLDR; By using bloated universal packages and making it easy for the normies, you're making it harder for minimal Linux users/experienced users who REALLY hate universal packaging. </p> 
  <p></p>
  <p>So please, if you're going to distribute software, PLEASE PLEASE PLEASE provide packaging for the distro's native package manager (Apt for Debian/Ubuntu, Pacman for Arch, Rpm for Red Hat, Portage for Gentoo, XBPS for Void, etc.). </p> 
- <p>Thank you and have a good day<p>
-</description>
+ <p>Thank you and have a good day<p></description>
 </item>
 
 <item>
