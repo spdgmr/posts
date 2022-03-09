@@ -2,7 +2,10 @@
 
 Various blog posts posted by me because I felt like it.
 
-##### [Stop Making Linux Normie Friendly.. sort of](https://spdgmr.github.io/post01)
+##### [Stop Making Linux Normie Friendly.. sort of](https://spdgmr.github.io/posts#stop-making-linux-normie-friendly-sort-of-1)
+##### [test](https://spdgmr.github.io)
+
+### Stop Making Linux Normie Friendly.. sort of
 Wanted to state my opinion on a problem that’s getting bigger and bigger. A problem that’s getting bigger with each day is that we’re making technology easier but it’s also getting more and more “evil” with big tech companies (FAANG for example) collecting and selling our data for monetary gain.
 
 So then we turn to alternatives (Usually free software and Linux) which is a good thing, more people caring about their online privacy. The problem is how we approach these new users. We want it to be easy for them but in the process of making it easy for new users we’re also making it a nightmare for experienced users and slowly making Linux just as bloated as those proprietary operating systems.
@@ -29,5 +32,3 @@ So please, if you’re going to distribute software, PLEASE PLEASE PLEASE provid
 
 Thank you and have a good day
 -----------------
-
-[test](https://spdgmr.github.io)
