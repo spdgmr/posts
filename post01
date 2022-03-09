@@ -1,42 +1,38 @@
-## speedie's page 
+## speedie's page
 
-#### // [Project 081](https://p081.github.io) | [Elevendebloater](https://github.com/speediegamer/elevendebloater) | [sfetch](https://spdgmr.github.io/sfetch) | [More Projects](https://spdgmr.github.io/projects) | [spDE](https://speedie-de.github.io) | [Discord server](https://ffdiscord.github.io) | [Twitter](https://nitter.net/spdgmr) | [YouTube](https://invidious.namazso.eu/speedie)
+#### // [Project 081](https://p081.github.io) | [Elevendebloater](https://spdgmr.github.io/elevendebloater) | [sfetch](https://spdgmr.github.io/sfetch) | [More Projects](https://spdgmr.github.io/projects) | [spDE](https://speedie-de.github.io) | [Discord server](https://ffdiscord.github.io) | [Twitter](https://nitter.net/spdgmr) | [YouTube](https://invidious.namazso.eu/speedie)
 --------------
 
-# My Projects
-Here is a list of most of my projects that I work on or have worked on.
+# Posts
 
-## Maintained
-- Elevendebloater // Windows 11 debloater script which removes most of the garbage Windows 11 comes with [[Download]](https://github.com/speediegamer/elevendebloater)
-- Project 081 // Modification of Mac OS X 10.4.10 which adds support for officially unsupported Early 2008 Apple hardware to the older OS. [[Download]](https://p081.github.io)
-- spDE // speedie's suckless Desktop Environment which comes with mostly TUI and simple/suckless software. Compiles from source. [[Download]](https://speedie-de.github.io)
-- hbc-archive // Homebrew Channel/TT Project archive by Forwarder Factory [[Download]](https://github.com/ForwarderFactory/hbc-archive)
-- wii // Nintendo Wii Homebrew archive by Forwarder Factory [[Download]](https://github.com/ForwarderFactory/wii)
-- configurations // speedie's dotfiles and configurations [[Download]](https://github.com/speediegamer/configurations)
-- gentoo-install // gentoo-install is a simple repository with scripts to automate the [Gentoo](https://gentoo.org) installation and ricing process. [[Download]](https://github.com/speediegamer/gentoo-install)
-- gentoo-vmkernel // Gentoo kernel config for running Gentoo virtual machines. [[Download]](https://github.com/speediegamer/gentoo-vmkernel)
-- setwallpaper // Simple TUI interface for easily setting your wallpaper with *feh* using Tiling Window Managers like dwm or i3 [[Download]](https://github.com/speediegamer/setwallpaper)
-- L-G_helper // Fork of L-G_helper for Gentoo/OpenRC which allows you to easily set up a Looking Glass QEMU/KVM setup. [[Download]](https://github.com/speediegamer/L-G_Helper)
-- keychron-linux // Systemd and OpenRC services which add function key support in Linux for Keychron and Apple keyboards. [[Download]](https://github.com/speediegamer/keychron-linux)
+Various blog posts posted by me because I felt like it.
 
-# Unmaintained/Dead
-- gmdccstealer // Customizable silent Geometry Dash CCGameManager.dat, CCGameManager2.dat, CCLocalLevels.dat and CCLocalLevels2.dat stealer [Download (deleted)]
-- The81Project // Project 081 but terrible [[Download]](https://github.com/p081/the81project)
-- Surfcord // Discord client for Linux which uses [suckless.org](https://suckless.org)'s Surf project to build a Chromium free client. [[Download]](https://github.com/speediegamer/configurations)
-- dwm // Old fork of suckless.org DWM [[Download]](https://github.com/speediegamer/dwm)
-- dwm-binaries // Old fork of suckless.org DWM (compiled binaries) [[Download]](https://github.com/speediegamer/dwm-binaries)
-- slstatus // Old fork of suckless.org slstatus [[Download]](https://github.com/speediegamer/slstatus)
-- slstatus-binaries // Old fork of suckless.org slstatus (compiled binaries) [[Download]](https://github.com/speediegamer/slstatus-binaries)
-- portage // Gentoo /etc/portage/make.conf that I haven't used in ages. [[Download]](https://github.com/speediegamer/portage)
-- xinitrc // Ancient $HOME/.xinitrc dotfile that I haven't used in ages. [[Download]](https://github.com/speediegamer/xinitrc)
-- bashrc // Ancient $HOME/.bashrc dotfile that I haven't used in ages. [[Download]](https://github.com/speediegamer/bashrc)
-- gentoo-scripts // A bunch of random scripts for Gentoo and Linux in general. [[Download]](https://github.com/speediegamer/gentoo-scripts)
-- gentoo-kernel // Old Gentoo kernel .config repository [[Download]](https://github.com/speediegamer/gentoo-kernel)
-- installerapp // Repository for .app installers used by Project 081 [[Download]](https://github.com/speediegamer/installerapp)
-- alacritty // Repository for Alacritty configuration files [[Download]](https://github.com/speediegamer/alacritty)
-- patchinstaller // Patch installer used by Project 081 0.6 and later [[Download]](https://github.com/p081/patchinstaller)
-- OC-GIGABYTE-Z170-GAMING-K3 // OpenCore config for the Gigabyte GA-Z170 Gaming K3 motherboard [[Download]](https://github.com/speediegamer/OC-GIGABYTE-Z170-GAMING-K3)
-- OC-ASUS-ROG-Z490G // OpenCore config for the ASUS ROG Strix Z490-G Gaming (WIFI) [[Download]](https://github.com/speediegamer/OC-ASUS-ROG-Z490G)
-- surfstart // Start page for suckless.org's surf browser [[Download]](https://github.com/spdgmr/surfstart)
-- And much.. much more!
+## Stop making Linux user friendly.. ..sort of (2022-03-09)
 
+Wanted to state my opinion on a problem that's getting bigger and bigger. A problem that's getting bigger with each day is that we're making technology easier but it's also getting more and more "evil" with big tech companies (FAANG for example) collecting and selling our data for monetary gain. 
+
+So then we turn to alternatives (Usually free software and Linux) which is a good thing, more people caring about their online privacy. The problem is how we approach these new users. We want it to be easy for them but in the process of making it easy for new users we're also making it a nightmare for experienced users and slowly making Linux just as bloated as those proprietary operating systems. 
+
+What do I mean with "bloat" since that term is kind of a meme by now?
+
+Nowdays most of the software we use is bloated. The websites you visit likely have a lot of JavaScript in them (Facebook, Google, Discord, Instagram, Twitter, etc.) which forces us to have bloated web browsers for viewing those pages slowing down older computers. Additionally this also requires a GUI program which some users might not want.
+
+But even if you avoid the web there's still bloat in a lot of software. A lot of software on Linux now is packaged using Universal packaging like Snap packages (Canonical), Flatpaks (Red Hat), and AppImages (some random idiot). 
+
+Now since soydevs decide to package using these and since these are universal, every single package has to have support for every distro which obviously is very bloated and probably moreso than .dmgs containing a binary on macOS or a .exe since there are more Linux distros than macOS versions/Windows versions.
+
+Thing is, when you're trying to keep your system minimal for multiple reasons (Could be old hardware or you simply like minimal software) these packages are just not an option. You might say, "Just compile from source" (as if I'm not already using Portage)
+
+And yes, I can definitely see your point but the problem comes when software is *absolutely proprietary*, because you can't exactly compile software without the source code in your hands.
+
+Now proprietary software is NOT minimal, obviously however whenever you need to install a piece of proprietary software you may in some cases be forced to use one of these bloated packages since the proprietary software developer is too lazy to actually use the distro specific package managers or AT LEAST provide a tarball for the user.
+
+So what are these universal package formats good for? Well, they're good for Windows/macOS normies who are used to things *just-working* without any tinkering. But problem comes when everyone starts adopting this new fancy packaging format. Because once these become standard (I definitely predict they will), you will be forced to use them (unless the software is free and open source).
+
+TLDR; By using bloated universal packages and making it easy for the normies, you're making it harder for minimal Linux users/experienced users who REALLY hate universal packaging.
+
+So please, if you're going to distribute software, PLEASE PLEASE PLEASE provide packaging for the distro's native package manager (Apt for Debian/Ubuntu, Pacman for Arch, Rpm for Red Hat, Portage for Gentoo, XBPS for Void, etc.).
+
+Thank you and have a good day
+
+--------------
