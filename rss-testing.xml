@@ -8,7 +8,6 @@
     <title>Stop making Linux user friendly.. sort of</title>
     <link>https://spdgmr.github.io/post01</link>
     <guid>https://spdgmr.github.io/post01</guid>
-    <pubDate>2022-03-09</pubDate>
     <description>
     <p>Wanted to state my opinion on a problem that's getting bigger and bigger. A problem that's getting bigger with each day is that we're making technology easier but it's also getting more and more "evil" with big tech companies (FAANG for example) collecting and selling our data for monetary gain. </p>
     <p>So then we turn to alternatives (Usually free software and Linux) which is a good thing, more people caring about their online privacy. </p>
@@ -33,7 +32,6 @@
     <title>NOTE for spDE users</title>
     <link>https://spdgmr.github.io/post02</link>
     <guid>https://spdgmr.github.io/post02</guid>
-    <pubDate>2022-03-09</pubDate>
     <description>
     <p>This is a notice for spDE users. It now comes with newsboat and this RSS feed built in. There may or may not be a keybind but you can access it from the terminal by running 'newsboat'.</p> 
     <p>Thank you for using spDE.</p>
