@@ -6,4 +6,5 @@
 
 NOTE: You can see all of them using my [RSS](https://raw.githubusercontent.com/spdgmr/posts/main/rss.xml) feed.
 
-##### [Stop Making Linux Normie Friendly.. sort of](https://raw.githubusercontent.com/spdgmr/posts/main/post01) // 2022-03-09 by [speedie](https://spdgmr.github.io)
+##### [Stop Making Linux Normie Friendly.. sort of](https://spdgmr.github.io/post01) // 2022-03-09 by [speedie](https://spdgmr.github.io)
+##### [Notice for spDE users](https://spdgmr.github.io/post02) // 2022-03-09 by [speedie](https://spdgmr.github.io)
