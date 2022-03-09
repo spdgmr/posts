@@ -1,6 +1,7 @@
 <rss version="2.0">
 <channel>
 <title>speedie // based posts</title>
+<atom:link href="https://lukesmith.xyz/rss.xml" rel="self" type="application/rss+xml"/>
 <description>Based blog posts about me and/or probably Linux</description>
 <link>https://spdgmr.github.io/posts</link>
 <url>https://spdgmr.github.io/favicon.ico</url>
