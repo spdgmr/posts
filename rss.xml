@@ -15,7 +15,8 @@
  <pubDate>2022-03-09</pubDate>
  <link>https://spdgmr.github.io/post01</link>
  <guid>https://spdgmr.github.io/post01</guid>
- <description><p>Wanted to state my opinion on a problem that's getting bigger and bigger. A problem that's getting bigger with each day is that we're making technology easier but it's also getting more and more "evil" with big tech companies (FAANG for example) collecting and selling our data for monetary gain. </p> <p>
+<description>
+<p>Wanted to state my opinion on a problem that's getting bigger and bigger. A problem that's getting bigger with each day is that we're making technology easier but it's also getting more and more "evil" with big tech companies (FAANG for example) collecting and selling our data for monetary gain. </p> <p>
  So then we turn to alternatives (Usually free software and Linux) which is a good thing, more people caring about their online privacy. </p> 
  <p>The problem is how we approach these new users. We want it to be easy for them but in the process of making it easy for new users we're also making it a nightmare for experienced users and slowly making Linux just as bloated as those proprietary operating systems. </p> 
  <p>What do I mean with "bloat" since that term is kind of a meme by now? </p>
@@ -30,8 +31,10 @@
  <p>So what are these universal package formats good for? Well, they're good for Windows/macOS normies who are used to things *just-working* without any tinkering. But problem comes when everyone starts adopting-</p> <p>this new fancy packaging format. Because once these become standard (I definitely predict they will), you will be forced to use them (unless the software is free and open source). </p> <p>
   TLDR; By using bloated universal packages and making it easy for the normies, you're making it harder for minimal Linux users/experienced users who REALLY hate universal packaging. </p> 
  <p>So please, if you're going to distribute software, PLEASE PLEASE PLEASE provide packaging for the distro's native package manager (Apt for Debian/Ubuntu, Pacman for Arch, Rpm for Red Hat, Portage for Gentoo, XBPS for Void, etc.). </p> 
- <p>Thank you and have a good day<p></description>
+<p>Thank you and have a good day<p>
+</description>
 </item>
+
 <item>
  <title>NOTE for spDE users</title>
  <pubDate>2022-03-10</pubDate>
@@ -39,7 +42,6 @@
  <guid>https://spdgmr.github.io/post02</guid>
  <description>
  <p>This is a notice for spDE users. It now comes with newsboat and this RSS feed built in. There may or may not be a keybind but you can access it from the terminal by running 'newsboat'.</p> 
- <p></p>
  <p>Thank you for using spDE.</p>
  </description>
 </item>
