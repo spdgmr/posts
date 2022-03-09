@@ -1,1 +1,1 @@
-##### [Stop Making Linux Normie Friendly.. sort of](https://spdgmr.github.io/post01)
+##### [Stop Making Linux Normie Friendly.. sort of](https://raw.githubusercontent.com/spdgmr/posts/main/post01)
