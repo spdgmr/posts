@@ -6,6 +6,9 @@
 
 NOTE: You can see all of them using my [RSS](https://raw.githubusercontent.com/spdgmr/posts/main/rss.xml) feed.
 
-##### [Stop Making Linux Normie Friendly.. sort of](https://spdgmr.github.io/post01) // 2022-03-09 by [speedie](https://spdgmr.github.io)
-##### [Notice for spDE users](https://spdgmr.github.io/post02) // 2022-03-09 by [speedie](https://spdgmr.github.io)
+##### [What you can expect from Project 081 0.6](https://spdgmr.github.io/post04) // 2022-03-10 by [speedie](https://spdgmr.github.io)
 ##### [Dear soydevs: Stop making desktop applications bloated](https://spdgmr.github.io/post03) // 2022-03-10 by [speedie](https://spdgmr.github.io)
+##### [Notice for spDE users](https://spdgmr.github.io/post02) // 2022-03-09 by [speedie](https://spdgmr.github.io)
+##### [Stop Making Linux Normie Friendly.. sort of](https://spdgmr.github.io/post01) // 2022-03-09 by [speedie](https://spdgmr.github.io)
+
+
