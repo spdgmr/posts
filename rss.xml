@@ -70,21 +70,21 @@
     <pubDate>2022-03-10</pubDate>
     <description>
     <p>This is an update for Project 081 users (if there still are any). As this project has slowly died I would like to finally finish it as I have been</p>
-	<p>working on other stuff like gentoo-install, spDE, my RSS feed, sfetch and various other projects.</p>
-	<p>After I spent more time with Linux and stuff my older Mac OS X project kinda.. died. So therefore my goal is to finish Project 081 soon so that</p>
-	<p>it's as good as it can possibly be. All the assets are (hopefully) complete however it has yet to be "compiled" together into an image for the user.</p>
-	<p>So while you wait, here's a list of a bunch of changes i've made to Project 081 as well as a few I'm going to do.</p>
-	<p>- Project 081 0.6/1.0 now comes with sfetch</p>
-	<p>- Project 081 0.6/1.0 might come with an RSS reader as well as my feed.</p>
-	<p>- Project 081 0.6/1.0 will FINALLY fix AirPort for iMac8,1 users.</p>
-	<p>- Project 081 0.6/1.0 will hopefully boot on all systems.</p>
-	<p>- Project 081 0.6/1.0 will hopefully be a single image with a single package that determines what to install based on sysctl hw.model</p>
-	<p>- Project 081 0.6/1.0 will be an even smaller image</p>
-	<p>- Project 081 0.6/1.0 will have a preinstalled image available.</p>
-	<p>- Project 081 0.6/1.0 will FINALLY come with drivers for newer Apple keyboards</p>
-	<p>That's basically what you can expect, if you have any more suggestions please create an Issue on GitHub.</p>
-	<p>That's all, Have a good day!</p>
+    <p>working on other stuff like gentoo-install, spDE, my RSS feed, sfetch and various other projects.</p>
+    <p>After I spent more time with Linux and stuff my older Mac OS X project kinda.. died. So therefore my goal is to finish Project 081 soon so that</p>
+    <p>it's as good as it can possibly be. All the assets are (hopefully) complete however it has yet to be "compiled" together into an image for the user.</p>
+    <p>So while you wait, here's a list of a bunch of changes i've made to Project 081 as well as a few I'm going to do.</p>
+    <p>- Project 081 0.6/1.0 now comes with sfetch</p>
+    <p>- Project 081 0.6/1.0 might come with an RSS reader as well as my feed.</p>
+    <p>- Project 081 0.6/1.0 will FINALLY fix AirPort for iMac8,1 users.</p>
+    <p>- Project 081 0.6/1.0 will hopefully boot on all systems.</p>
+    <p>- Project 081 0.6/1.0 will hopefully be a single image with a single package that determines what to install based on sysctl hw.model</p>
+    <p>- Project 081 0.6/1.0 will be an even smaller image</p>
+    <p>- Project 081 0.6/1.0 will have a preinstalled image available.</p>
+    <p>- Project 081 0.6/1.0 will FINALLY come with drivers for newer Apple keyboards</p>
+    <p>That's basically what you can expect, if you have any more suggestions please create an Issue on GitHub.</p>
+    <p>That's all, Have a good day!</p>
     </description>
   </item>
- </channel>
+</channel>
 </rss>
