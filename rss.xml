@@ -47,21 +47,21 @@
     <pubDate>2022-03-10</pubDate>
     <description>
     <p>Today I wanted to talk about something else. I guess it's kinda related to my previous post titled "Stop making Linux user friendly.. sort of".</p>
-	<p>Modern software has this problem, a very huge problem. "Bloat". Now bloat can be caused by many different aspects. Programming language, po-</p>
-	<p>orly written code, unnecessary features, etc. but the main one I wanna talk about is called "Electron".</p>
-	<p>Now if you're not familiar with Electron, it's basically a minimal version of Chromium designed to create individual desktop applications from</p>
-	<p>HTML, CSS and JavaScript. This makes it easy to create desktop applications as long as you know a lot about web development.</p>
-	<p>In fact many desktop applications you might be using (Almost all of them are proprietary) use Electron.</p>
-	<p>Examples of these are: GitHub Desktop, balenaEtcher, Discord, Spotify, and yes, even a text editor, Visual Studio Code or as I like to call it, "SoyDev Code".</p>
-	<p>If you've viewed my page, https://spdgmr.github.io/hate, you'll know that both Electron and the JavaScript programming language is there on my list.</p>
-	<p>Either way, JavaScript is a VERY bloated language and is often obfuscated making it harder to see spyware, even if it's TECHNICALLY open source.</p>
+    <p>Modern software has this problem, a very huge problem. "Bloat". Now bloat can be caused by many different aspects. Programming language, po-</p>
+    <p>orly written code, unnecessary features, etc. but the main one I wanna talk about is called "Electron".</p>
+    <p>Now if you're not familiar with Electron, it's basically a minimal version of Chromium designed to create individual desktop applications from</p>
+    <p>HTML, CSS and JavaScript. This makes it easy to create desktop applications as long as you know a lot about web development.</p>
+    <p>In fact many desktop applications you might be using (Almost all of them are proprietary) use Electron.</p>
+    <p>Examples of these are: GitHub Desktop, balenaEtcher, Discord, Spotify, and yes, even a text editor, Visual Studio Code or as I like to call it, "SoyDev Code".</p>
+    <p>If you've viewed my page, https://spdgmr.github.io/hate, you'll know that both Electron and the JavaScript programming language is there on my list.</p>
+    <p>Either way, JavaScript is a VERY bloated language and is often obfuscated making it harder to see spyware, even if it's TECHNICALLY open source.</p>
     <p>Now JavaScript is becoming more popular in web development and this fact is pissing people who want a minimal system off.</p>
-	<p>So to make it worse, since Electron allows you to turn HTML+CSS+JS into a desktop application, this means JS will be used for software as well.</p>
-	<p>You might say, "I have a fast computer so I don't care if the software is bloated or not" and while that's a fair point, what if someone doesn't have a fast computer or just simply l-</p>
-	<p> ikes minimal software. Then they're essentially forced to use this bloated slow application just because a developer was too lazy to actually learn another language.</p>
-	<p>TLDR; The web is extremely bloated and since Electron turns "the web" into a desktop application, software on the desktop is getting bloated too.</p>
-	<p>So what do I want? I want developers to STOP using this Electron trash.</p>
-	<p>Thank you and have a good day!</p>
+    <p>So to make it worse, since Electron allows you to turn HTML+CSS+JS into a desktop application, this means JS will be used for software as well.</p>
+    <p>You might say, "I have a fast computer so I don't care if the software is bloated or not" and while that's a fair point, what if someone doesn't have a fast computer or just simply l-</p>
+    <p> ikes minimal software. Then they're essentially forced to use this bloated slow application just because a developer was too lazy to actually learn another language.</p>
+    <p>TLDR; The web is extremely bloated and since Electron turns "the web" into a desktop application, software on the desktop is getting bloated too.</p>
+    <p>So what do I want? I want developers to STOP using this Electron trash.</p>
+    <p>Thank you and have a good day!</p>
     </description>
   </item>
  </channel>
