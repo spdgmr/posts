@@ -8,3 +8,4 @@ NOTE: You can see all of them using my [RSS](https://raw.githubusercontent.com/s
 
 ##### [Stop Making Linux Normie Friendly.. sort of](https://spdgmr.github.io/post01) // 2022-03-09 by [speedie](https://spdgmr.github.io)
 ##### [Notice for spDE users](https://spdgmr.github.io/post02) // 2022-03-09 by [speedie](https://spdgmr.github.io)
+##### [Dear soydevs: Stop making desktop applications bloated](https://spdgmr.github.io/post03) // 2022-03-10 by [speedie](https://spdgmr.github.io)
