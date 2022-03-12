@@ -6,6 +6,7 @@
 
 NOTE: You can see all of them using my [RSS](https://raw.githubusercontent.com/spdgmr/posts/main/rss.xml) feed.
 
+##### [It's time to stop using Adblock Plus (seriously stop)](https://spdgmr.github.io/post06) // 2022-03-12 by [speedie](https://spdgmr.github.io)
 ##### [Happy 25th Birthday Arch Linux!](https://spdgmr.github.io/post05) // 2022-03-11 by [speedie](https://spdgmr.github.io)
 ##### [What you can expect from Project 081 0.6](https://spdgmr.github.io/post04) // 2022-03-10 by [speedie](https://spdgmr.github.io)
 ##### [Dear soydevs: Stop making desktop applications bloated](https://spdgmr.github.io/post03) // 2022-03-10 by [speedie](https://spdgmr.github.io)
