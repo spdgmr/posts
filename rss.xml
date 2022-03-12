@@ -100,5 +100,23 @@
 	<p>that's difficult to install. Happy 20th Birthday Arch Linux and thank you for reading this.</p>
     </description>
   </item>
+  <item>
+	<title>It's time to stop using Adblock Plus (seriously stop)</title>
+	<link>https://spdgmr.github.io/post06</link>
+	<guid>https://spdgmr.github.io/post06</guid>
+	<pubDate>2022-03-12</pubdate>
+	<description>
+	<p>One of the most popular types of browser extensions have been ad blockers.</p>
+	<p>Now there are so many ad blockers, most of them being absolutely terrible that it can be hard to pick one.</p>
+	<p>But fear not, just look for the highest rated one right? Well.. No. Because on most browsers Adblock Plus is the highest</p>
+	<p> rated extension and therefgore it's also the most popular. </p> <p>But little do most users know that ABP isn't what it seems. You see, big tech companies pay the creator(s) of ABP to not block their ads.</p>
+	<p>You might say, these are what ABP calls "Acceptable Ads" but NO, these are not just whitelisted until you manually disable them, these are ALWAYS whitelisted.</p>
+	<p>Now, let's talk about what "Acceptable Ads" are. These are ads that ABP deems "Acceptable" and they likely get paid to make these "Acceptable". </p> <p>The reason this feature exists is obvious. Most normies don't spent time "tinkering" with their software and therefore probably use the default settings.</p>
+	<p>And "Acceptable Ads" are also enabled by default. So the user installs ABP thinking they're getting privacy and an ad free experience when that's not really the case.</p>
+	<p>Guess what makes it worse? ABP doesn't tell its users that they're being paid money by big tech companies. And because ABP is one of the most popular if not THE most popular ad blocker its users are going to trust it no matter what. </p> <p>So what ad blocker should you use? Well, you could go with the least bloated option which is to edit your /etc/hosts file but manually adding entries is extremely time consuming and ultimately not worth your time so instead you can simply use the "uBlock Origin" extension which is available for Chromium, WebKit and Firefox based browsers. </p>
+	<p>uBlock Origin despite having a bad name in my opinion is definitely the best ad blocker. It's 100% open source and free as in freedom. Its filter is also public and if you really want you can add it to your /etc/hosts manually. It has no "Acceptable Ads" trash which means money doesn't decide what's going to be blocked. </p>
+	<p>It also has a bunch of other nice features that other ad blockers lack such as preventing WebRTC leaks and disabling JavaScript, cookies, trackers and other stuff that you might not want. It's definitely one of the best browser extensions and I highly recommend it. </p>
+	</description>
+  </item>
 </channel>
 </rss>
