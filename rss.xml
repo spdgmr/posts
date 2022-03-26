@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
+  <atom:link href="https://raw.githubusercontent.com/spdgmr/posts/main/rss.xml" rel="self" type="application/rss+xml"/>
   <title>speedie // based posts</title>
   <link>https://spdgmr.github.io/posts</link>
   <description>Mostly Linux opinions and random opinions.</description>
