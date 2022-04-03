@@ -3,7 +3,7 @@
 <channel>
   <title>speedie // based posts</title>  <link>https://spdgmr.github.io/posts</link>
   <description>Mostly Linux opinions and random opinions.></description>
-<atom:link href="https://raw.githubusercontent.com/spdgmr/posts/main/rss.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://raw.githubusercontent.com/Lucas-mother3/posts/patch-1/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Stop making Linux user friendly.. sort of</title>
     <link>https://spdgmr.github.io/post01</link>
