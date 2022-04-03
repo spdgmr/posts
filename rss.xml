@@ -4,7 +4,7 @@
   <title>speedie // based posts</title> 
   <link>https://spdgmr.github.io/posts</link>
   <description>Mostly Linux opinions and random opinions.></description>
-<atom:link href="https://raw.githubusercontent.com/spdgmr/posts/main/rss.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://rawcdn.githack.com/spdgmr/posts/4daeab16d875441990b125d5007133ee3437053f/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Stop making Linux user friendly.. sort of</title>
     <link>https://spdgmr.github.io/post01</link>
