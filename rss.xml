@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>speedie // based posts</title>  <link>https://spdgmr.github.io/posts</link>
+  <title>speedie // based posts</title> 
+  <link>https://spdgmr.github.io/posts</link>
   <description>Mostly Linux opinions and random opinions.></description>
 <atom:link href="https://raw.githubusercontent.com/spdgmr/posts/main/rss.xml" rel="self" type="application/rss+xml" />
   <item>
