@@ -10,8 +10,7 @@
     <link>https://spdgmr.github.io/post01</link>
     <guid>https://spdgmr.github.io/post01</guid>
     <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
-    <description><![CDATA[Stop making Linux user friendly.. sort of]]></description>
-    <content:encoded>
+    <description>
     <![CDATA[<p>Wanted to state my opinion on a problem that's getting bigger and bigger. A problem that's getting bigger with each day is that we're making technology easier but it's also getting more and more "evil" with big tech companies (FAANG for example) collecting and selling our data for monetary gain. </p>
     <p>So then we turn to alternatives (Usually free software and Linux) which is a good thing, more people caring about their online privacy. </p>
     <p>The problem is how we approach these new users. We want it to be easy for them but in the process of making it easy for new users we're also making it a nightmare for experienced users and slowly making Linux just as bloated as those proprietary operating systems. </p>
@@ -29,26 +28,24 @@
     <p>TLDR; By using bloated universal packages and making it easy for the normies, you're making it harder for minimal Linux users/experienced users who REALLY hate universal packaging. </p> 
     <p>So please, if you're going to distribute software, PLEASE PLEASE PLEASE provide packaging for the distro's native package manager (Apt for Debian/Ubuntu, Pacman for Arch, Rpm for Red Hat, Portage for Gentoo, XBPS for Void, etc.). </p> 
     <p>Thank you and have a good day</p>]]>
-    </content:encoded>
+    </description>
   </item>
   <item>
     <title>NOTE for spDE users</title>
     <link>https://spdgmr.github.io/post02</link>
     <guid>https://spdgmr.github.io/post02</guid>
     <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
-    <description><![CDATA[NOTE for spDE users]]></description>
-    <content:encoded>
+    <description>
     <![CDATA[<p>This is a notice for spDE users. It now comes with newsboat and this RSS feed built in. There may or may not be a keybind but you can access it from the terminal by running 'newsboat'.</p> 
     <p>Thank you for using spDE.</p>]]>
-    </content:encoded>
+    </description>
   </item>
   <item>
     <title>Dear soydevs: Stop making desktop applications bloated.</title>
     <link>https://spdgmr.github.io/post03</link>
     <guid>https://spdgmr.github.io/post03</guid>
     <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
-    <description><![CDATA[Dear soydevs: Stop making desktop applications bloated.]]></description>
-    <content:encoded>
+    <description>
     <![CDATA[<p>Today I wanted to talk about something else. I guess it's kinda related to my previous post titled "Stop making Linux user friendly.. sort of".</p>
     <p>Modern software has this problem, a very huge problem. "Bloat". Now bloat can be caused by many different aspects. Programming language, po-</p>
     <p>orly written code, unnecessary features, etc. but the main one I wanna talk about is called "Electron".</p>
@@ -66,15 +63,14 @@
     <p>So what do I want? I want developers to STOP using this Electron trash.</p>
     <p>Thank you and have a good day!</p>
     ]]>
-    </content:encoded>
+    </description>
   </item>
   <item>
     <title>What you can expect from Project 081 0.6</title>
     <link>https://spdgmr.github.io/post04</link>
     <guid>https://spdgmr.github.io/post04</guid>
     <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
-    <description><![CDATA[What you can expect from Project 081 0.6]]></description>
-    <content:encoded>
+    <description>
     <![CDATA[<p>This is an update for Project 081 users (if there still are any). As this project has slowly died I would like to finally finish it as I have been</p>
     <p>working on other stuff like gentoo-install, spDE, my RSS feed, sfetch and various other projects.</p>
     <p>After I spent more time with Linux and stuff my older Mac OS X project kinda.. died. So therefore my goal is to finish Project 081 soon so that</p>
@@ -90,30 +86,28 @@
     <p>- Project 081 0.6/1.0 will FINALLY come with drivers for newer Apple keyboards</p>
     <p>That's basically what you can expect, if you have any more suggestions please create an Issue on GitHub.</p>
     <p>That's all, Have a good day!</p>]]>
-    </content:encoded>
+    </description>
   </item>
   <item>
 	<title>Happy 20th Birthday Arch Linux!</title>
 	<link>https://spdgmr.github.io/post05</link>
 	<guid>https://spdgmr.github.io/post05</guid>
 	<pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
-	<description><![CDATA[Happy 20th Birthday Arch Linux!]]></description>
-	<content:encoded>
+	<description>
 	<![CDATA[<p>So today, 2022-03-11 depending on your time zone marks 20 years since Arch Linux was released to the public.</p>
 	<p>I would like to show some respect by creating this very post. Arch Linux is still one of the best Linux distributions today and I use it on a few machines.</p>
 	<p>Even though I personally use Gentoo, Arch Linux was what got me into minimal Linux distributions and bloat-free software so I believe we should give it the respect it deserves.</p>
 	<p>So thank you Arch Linux for being "different" and being minimal. Although I don't agree with some of your decisions such as switching from OpenRC to Systemd, you're one of the most popular distros and managed to get many people away from the bloated</p>
 	<p>Linux distributions to something minimal and DIY. You even basically created Linux elitism by making an OS</p>
 	<p>that's difficult to install. Happy 20th Birthday Arch Linux and thank you for reading this.</p>]]>
-	</content:encoded>
+	</description>
   </item>
   <item>
 	<title>It's time to stop using Adblock Plus (seriously stop)</title>
 	<link>https://spdgmr.github.io/post06</link>
 	<guid>https://spdgmr.github.io/post06</guid>
 	<pubDate>Sat, 12 Mar 2022 00:00:00 GMT</pubDate>
-	<description><![CDATA[It's time to stop using Adblock Plus (seriously stop)]]></description>
-	<content:encoded>
+	<description>
 	<![CDATA[<p>One of the most popular types of browser extensions have been ad blockers.</p>
 	<p>Now there are so many ad blockers, most of them being absolutely terrible that it can be hard to pick one.</p>
 	<p>But fear not, just look for the highest rated one right? Well.. No. Because on most browsers Adblock Plus is the highest</p>
@@ -124,7 +118,7 @@
 	<p>Guess what makes it worse? ABP doesn't tell its users that they're being paid money by big tech companies. And because ABP is one of the most popular if not THE most popular ad blocker its users are going to trust it no matter what. </p> <p>So what ad blocker should you use? Well, you could go with the least bloated option which is to edit your /etc/hosts file but manually adding entries is extremely time consuming and ultimately not worth your time so instead you can simply use the "uBlock Origin" extension which is available for Chromium, WebKit and Firefox based browsers. </p>
 	<p>uBlock Origin despite having a bad name in my opinion is definitely the best ad blocker. It's 100% open source and free as in freedom. Its filter is also public and if you really want you can add it to your /etc/hosts manually. It has no "Acceptable Ads" trash which means money doesn't decide what's going to be blocked. </p>
 	<p>It also has a bunch of other nice features that other ad blockers lack such as preventing WebRTC leaks and disabling JavaScript, cookies, trackers and other stuff that you might not want. It's definitely one of the best browser extensions and I highly recommend it. </p>]]>
-	</content:encoded>
+	</description>
   </item>
 </channel>
 </rss>
