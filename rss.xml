@@ -120,5 +120,20 @@
 	<p>It also has a bunch of other nice features that other ad blockers lack such as preventing WebRTC leaks and disabling JavaScript, cookies, trackers and other stuff that you might not want. It's definitely one of the best browser extensions and I highly recommend it. </p>]]>
 	</description>
   </item>
+  <item>
+	<title>rchat 0.4 is here (Now available on Arch and Gentoo)</title>
+	<link>https://spdgmr.github.io/post07</link>
+	<guid>https://spdgmr.github.io/post07</guid>
+	<pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
+	<description>
+	<![CDATA[<p>rchat 0.4 has finally been released. This release doesn't bring much of note except a few commands.</p>
+	<p>However, you can now install rchat easily on Arch Linux through the AUR and Gentoo using my ebuild repository.</p>
+	<p>To install rchat 0.4 on Gentoo, add my overlay, you can find out how to do so by following this link: https://github.com/spoverlay/splay.</p>
+	<p>To install rchat 0.4 on Arch, simply install the AUR package. You can use an AUR helper like 'yay' if you want. Usage with 'yay' is 'yay -S rchat'.</p>
+	<p>For other GNU/Linux distributions, you can head over to my GitHub and download the latest version. Or clone it using Git.</p>
+	<p>The latest release can be found here. Simply download, save to /usr/bin/rchat and chmod +x /usr/bin/rchat.</p>
+ 	<p>https://raw.githubusercontent.com/speediegamer/rchat/main/rchat</p>]]> 
+	</description>
+  </item>
 </channel>
 </rss>
