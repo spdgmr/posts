@@ -154,5 +154,27 @@
 	<p>- speedie</p>]]>
 	</description>
  </item>
+ <item>
+	<title>Everything I want to use is Chromium</title>
+	<link>https://spdgmr.github.io/post09</link>
+	<guid>https://spdgmr.github.io/post09</guid>
+	<pubDate>Sun, 26 Apr 2022 00:00:00 GMT</pubDate>
+	<description>
+	<![CDATA[<p>Good morning/evening/night gigachads. Today I wanted to speak about a problem. As you've probably read from the title which is 'Everything I want to use is Chromium', everything I want to use is Chromium.</p>
+	<p>No matter if you like Chromium or hate Chromium, it is a problem because centralization is a problem. In this case, centralization refers to a product with a marketshare so far above everything else, it's slowly killing any and all alternatives. </p>
+	<p>Back in the day, There were really only two web engines; Trident or whatever it was called (IE), and Gecko (Netscape/Firefox). This used to be a problem in the late 90s and early 2000s because Internet Explorer was about as dominant as Chromium is today. However as the mid 2000s came around, it was fairly balanced and you could get by with either web browser.</p>
+        <p>In 2008, a brand new "fancy" web browser came around called Google Chrome. Little did we know back then but this web browser would later end up essentially destroying the internet. Not the web browser itself, although it's pretty terrible and normies tend to use it, but rather the web engine it had, named 'Chromium'. Now Chromium is based on another web engine called WebKit. The problem is that Chromium is controlled by a big tech company and even worse, a big tech company with advertising as their main goal.</p>
+	<p>Now, Chromium is a free software project but since Google, the evil advertising company has the final say about what goes into the project and not, it's not something you should depend on. Chromium ended up being (and still is) the fastest web engine. This led to new websites relying more and more on Chromium. And as the result of that, most web browsers created nowdays are based on the Chromium engine.</p>
+        <p>Slowly, Chromium gained massive marketshare and fast forward to today, it's by far the most popular web engine out there. Essentially what we've done is given Google the power over all of our free software projects.</p>
+	<p>Not only that but with massive marketshare came web centralization. Google, the evil company has a monopoly on advertising, hosting and video sharing and even web searching. Who is to say they won't use their monopoly and power for evil in the "free software" project Chromium which is in most web browsers today?</p>
+	<p>Mozilla, the creators of Firefox and other free-software projects like Thunderbird don't have advertising in mind and rather try to encourage a free and open source web. However due to bad decisions and Gecko being slow, Chromium has taken over and now Mozilla is really struggling to keep the Firefox project going.</p>
+	<p>You might say, "just fork Gecko" and while that would be valid, Gecko is REALLY difficult to work with and that's the problem. You can't just easily create a browser based on Gecko because it's too difficult and time consuming. </p>
+        <p>Now, I'm not gonna go too in depth on this but many DESKTOP applications are also becoming Chromium. The reason is that soydevs have essentially stopped making regular Desktop applications and are instead using something called 'Electron'. Electron is basically a minimal (but still EXTREMELY bloated Chromium) which is even worse because even if you avoid Chromium for your web browser by using a Firefox based browser like GNU/Icecat, Tor, Firefox, Waterfox, Librewolf, etc. you'll still have Chromium based applications on your system.</p>
+	<p>It's getting really common. balenaEtcher, Discord, Spotify, Telegram, etc. desktop clients are all using Electron/Chromium.</p>
+	<p>So what do I want? I want a decentralized web. To support this, we need to somehow grow Firefox and Webkit based browsers' marketshare so that the marketshare is more even. So that, if Google eventually destroys Chromium and makes it a spyware monopoly, we have another engine to fall back on.</p>
+        <p>A good way to do this would be to bring back the old 'Choose a browser' prompt Microsoft was forced to show every time Internet Explorer was launched on Windows 7 and 8.</p>
+        <p>To contribute to this, I've decided to BAN myself from ever touching anything based on Chromium or Electron. Chromium might be great, or it might suck but I refuse to support a bloated, centralized web. If you wanna support a decentralized web, I suggest you do the same.</p>
+	<p> - speedie</p>]]>
+        </description>
 </channel>
 </rss>
