@@ -4,11 +4,11 @@
   <title>speedie // based posts</title> 
   <link>https://spdgmr.github.io/posts</link>
   <description>Mostly Linux opinions and random opinions.></description>
-<atom:link href="https://raw.githubusercontent.com/spdgmr/posts/main/rss.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://speedie.gq/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Stop making Linux user friendly.. sort of</title>
-    <link>https://spdgmr.github.io/post01</link>
-    <guid>https://spdgmr.github.io/post01</guid>
+    <link>https://speedie.gq/post01.html</link>
+    <guid>https://speedie.gq/post01.html</guid>
     <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
     <description>
     <![CDATA[<p>Wanted to state my opinion on a problem that's getting bigger and bigger. A problem that's getting bigger with each day is that we're making technology easier but it's also getting more and more "evil" with big tech companies (FAANG for example) collecting and selling our data for monetary gain. </p>
@@ -32,8 +32,8 @@
   </item>
   <item>
     <title>NOTE for spDE users</title>
-    <link>https://spdgmr.github.io/post02</link>
-    <guid>https://spdgmr.github.io/post02</guid>
+    <link>https://speedie.gq/post02.html</link>
+    <guid>https://speedie.gq/post02.html</guid>
     <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
     <description>
     <![CDATA[<p>This is a notice for spDE users. It now comes with newsboat and this RSS feed built in. There may or may not be a keybind but you can access it from the terminal by running 'newsboat'.</p> 
@@ -42,8 +42,8 @@
   </item>
   <item>
     <title>Dear soydevs: Stop making desktop applications bloated.</title>
-    <link>https://spdgmr.github.io/post03</link>
-    <guid>https://spdgmr.github.io/post03</guid>
+    <link>https://speedie.gq/post03.html</link>
+    <guid>https://speedie.gq/post03.html</guid>
     <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
     <description>
     <![CDATA[<p>Today I wanted to talk about something else. I guess it's kinda related to my previous post titled "Stop making Linux user friendly.. sort of".</p>
@@ -67,8 +67,8 @@
   </item>
   <item>
     <title>What you can expect from Project 081 0.6</title>
-    <link>https://spdgmr.github.io/post04</link>
-    <guid>https://spdgmr.github.io/post04</guid>
+    <link>https://speedie.gq/post04.html</link>
+    <guid>https://speedie.gq/post04.html</guid>
     <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
     <description>
     <![CDATA[<p>This is an update for Project 081 users (if there still are any). As this project has slowly died I would like to finally finish it as I have been</p>
@@ -90,8 +90,8 @@
   </item>
   <item>
 	<title>Happy 20th Birthday Arch Linux!</title>
-	<link>https://spdgmr.github.io/post05</link>
-	<guid>https://spdgmr.github.io/post05</guid>
+	<link>https://speedie.gq/post05.html</link>
+	<guid>https://speedie.gq/post05.html</guid>
 	<pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
 	<description>
 	<![CDATA[<p>So today, 2022-03-11 depending on your time zone marks 20 years since Arch Linux was released to the public.</p>
@@ -104,8 +104,8 @@
   </item>
   <item>
 	<title>It's time to stop using Adblock Plus (seriously stop)</title>
-	<link>https://spdgmr.github.io/post06</link>
-	<guid>https://spdgmr.github.io/post06</guid>
+	<link>https://speedie.gq/post06.html</link>
+	<guid>https://speedie.gq/post06.html</guid>
 	<pubDate>Sat, 12 Mar 2022 00:00:00 GMT</pubDate>
 	<description>
 	<![CDATA[<p>One of the most popular types of browser extensions have been ad blockers.</p>
@@ -122,8 +122,8 @@
   </item>
   <item>
 	<title>rchat 0.4 is here (Now available on Arch and Gentoo)</title>
-	<link>https://spdgmr.github.io/post07</link>
-	<guid>https://spdgmr.github.io/post07</guid>
+	<link>https://speedie.gq/post07.html</link>
+	<guid>https://speedie.gq/post07.html</guid>
 	<pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
 	<description>
 	<![CDATA[<p>rchat 0.4 has finally been released. This release doesn't bring much of note except a few commands.</p>
@@ -137,8 +137,8 @@
   </item>
   <item>
 	<title>Facecucks BTFO by rchat 0.5 (rchat 0.5 is here)</title>
-	<link>https://spdgmr.github.io/post08</link>
-	<guid>https://spdgmr.github.io/post08</guid>
+	<link>https://speedie.gq/post08.html</link>
+	<guid>https://speedie.gq/post08.html</guid>
 	<pubDate>Sun, 26 Apr 2022 00:00:00 GMT</pubDate>
 	<description>
 	<![CDATA[<p>rchat 0.5 is here. It brings a few more commands such as setting how quickly messages are loaded.</p>
@@ -156,8 +156,8 @@
  </item>
  <item>
 	<title>Everything I want to use is Chromium</title>
-	<link>https://spdgmr.github.io/post09</link>
-	<guid>https://spdgmr.github.io/post09</guid>
+	<link>https://speedie.gq/post09.html</link>
+	<guid>https://speedie.gq/post09.html</guid>
 	<pubDate>Sun, 26 Apr 2022 00:00:00 GMT</pubDate>
 	<description>
 	<![CDATA[<p>Good morning/evening/night gigachads. Today I wanted to speak about a problem. As you've probably read from the title which is 'Everything I want to use is Chromium', everything I want to use is Chromium.</p>
@@ -177,5 +177,24 @@
 	<p> - speedie</p>]]>
         </description>
  </item>
+ <item>
+    <title>xinit is bloated.</title>
+	<link>https://speedie.gq/post10.html</link>
+	<guid>https://speedie.gq/post10.html</guid>
+	<pubDate>Sat, 30 Apr 2022 00:00:00 GMT</pubDate>
+	<description>
+	<![CDATA[<p>Some GNU/Linux users are very serious about maintaining a minimal system. They use software like dwm as their window manager, written in C with very few dependencies (definitely check it out).</p>
+	<p>But even then, they keep using a bloated piece of software just to run an X session.</p>
+	<p>That program is 'xinit' or 'startx' as some people call it because that's the command you run to start an X session. To me, there is absolutely no reason to keep using such a bloated program when minimal alternatives exist. In fact, it's really easy to switch to a better alternative.</p>
+	<p>If you're running Wayland then you can ignore this post/throw that bloat in the trash, it's not for you. For the rest of us Xorg GNU/Linux chads, I'm going to walk you through a simple program called 'sx'. I've known about this program for months but never actually bothered to try it. As I quickly found it months later however, it is REALLY easy to switch over to sx, even on a system that's already fully set up.</p>
+	<p>To get started, change directory to wherever you want and 'git clone https://github.com/Earnestly/sx.git'. Now 'cd sx' and run 'make install' as root.</p>
+	<p>Now that you've got sx installed, it's time to start using it. If you're not sure how to use it, you can simply check the 'man sx' page.</p>
+	<p>To start a server, if your .xinitrc is in ~ then you can probably just run 'sx sh ~/.xinitrc'. You can use the exact same .xinitrc with sx as with xinit. Now, if you've moved your .xinitrc then it's the exact same command, just change the path.</p>
+	<p>If your X is configured properly and the .xinitrc is written properly, your window manager should start just like it did with xinit. Now, sx is just 36 SLOC of POSIX compliant shell so if you want you can easily make changes to it.</p>
+	<p>Unless you require very specific settings though, which is quite rare you probably don't need to modify it anyway.</p>
+	<p>sx does however have a few problems although I've only encountered one with dfmpeg/ffmpeg where it won't record. It's not a huge deal and it's probably just a dfmpeg thing. If it is and I manage to solve it, a new version of dfmpeg should be released soon.</p>
+	<p>Either way, sx is really everything you need an 'X starter' to do. Nothing less, nothing more.</p>]]>
+	</description>
+</item>
 </channel>
 </rss>
